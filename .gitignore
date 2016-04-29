@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/app/src/androidTest/
+/app/src/test/java/
+.DS_Store
+/build
+/captures
+.idea
+diagram.jpg
+diagram.png
+diagramClass.png

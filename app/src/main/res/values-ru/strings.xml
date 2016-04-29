@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторные работы</string>
+    <string name="title">Заголовок уведомления</string>
+    <string name="warning">Внимание</string>
+    <string name="count_label">Количество</string>
+    <string name="name_label">Название</string>
+    <string name="add_button">Добавить товар</string>
+    <string name="getPhoto">Камера</string>
+    <string name="pickPhoto">Галерея</string>
+    <string name="hint_summary">Показывать уведомления</string>
+    <string name="notification">Уведомления</string>
+    <string name="open_map_from_latitude">Открыть карту по координатам</string>
+    <string name="open_map_from_query">Открыть карту по запросу</string>
+    <string name="ringtone">Звук</string>
+    <string name="ringtone_summary">Вкл/Выкл звук в уведомлении</string>
+    <string name="setting_ringtone">Звук уведомления</string>
+    <string name="settings_on_of">Настройки</string>
+    <string name="settings_on_off_summary">Изменять настройки</string>
+</resources>

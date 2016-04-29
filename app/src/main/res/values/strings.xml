@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LabProject</string>
+    <string name="warning">Warning</string>
+    <string name="title">Title Header</string>
+    <string name="name_label">Name</string>
+    <string name="count_label">Count</string>
+    <string name="add_button">Add grocery</string>
+    <string name="getPhoto">Get Photo</string>
+    <string name="pickPhoto">Pick Photo</string>
+    <string name="settings_on_of">Settings</string>
+    <string name="settings_on_off_summary">Change settings</string>
+    <string name="hint_summary">Show notification</string>
+    <string name="settings_title">Settings</string>
+    <string name="open_map_from_latitude">Open map from latitude</string>
+    <string name="open_map_from_query">Open map from query</string>
+    <string name="setting_ringtone">Pick sound</string>
+    <string name="notification">Notification</string>
+    <string name="ringtone">Sound</string>
+    <string name="ringtone_summary">On/Off sound in notification</string>
+
+
+</resources>
